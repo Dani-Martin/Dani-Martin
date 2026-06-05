@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="100%" style="stop-color:#161b22"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#d07600;stop-opacity:0"/>
+      <stop offset="30%" style="stop-color:#d07600;stop-opacity:1"/>
+      <stop offset="70%" style="stop-color:#d07600;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#d07600;stop-opacity:0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="220" fill="url(#bg)" rx="12"/>
+
+  <!-- Top accent line -->
+  <rect width="1200" height="3" y="0" fill="url(#accent)" rx="2"/>
+
+  <!-- Left bracket decoration -->
+  <text x="80" y="130" font-family="'Courier New', monospace" font-size="80" fill="#d07600" opacity="0.15" font-weight="bold">{</text>
+
+  <!-- Right bracket decoration -->
+  <text x="1090" y="130" font-family="'Courier New', monospace" font-size="80" fill="#d07600" opacity="0.15" font-weight="bold">}</text>
+
+  <!-- Name -->
+  <text x="600" y="100" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="52" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="-1">Daniel Martín</text>
+
+  <!-- Role badges -->
+  <text x="600" y="148" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="19" fill="#d07600" text-anchor="middle" letter-spacing="0.5">WordPress Plugin Engineer  ·  Claude AI &amp; MCP Expert  ·  SaaS Builder</text>
+
+  <!-- Tagline -->
+  <text x="600" y="183" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#8b949e" text-anchor="middle">Fundador de Sistemas Digitales MG — PHP · Python · Anthropic Claude</text>
+
+  <!-- Bottom accent line -->
+  <rect width="1200" height="3" y="217" fill="url(#accent)" rx="2"/>
+</svg>
