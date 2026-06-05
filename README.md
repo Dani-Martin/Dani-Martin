@@ -56,23 +56,11 @@ Plataformas completas: sistema de licencias propio, dashboards por cliente, Stri
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Dani-Martin&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=d07600&icon_color=d07600&text_color=ffffff&count_private=true" alt="GitHub Stats"/>
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dani-Martin&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=d07600&text_color=ffffff&langs_count=6" alt="Top Languages"/>
-
-</div>
-
----
-
 ## Contacto
 
 <div align="center">
 
 [![Web](https://img.shields.io/badge/sistemasmg.es-d07600?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sistemasmg.es)
-[![Email](https://img.shields.io/badge/lugamadaniel@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lugamadaniel@gmail.com)
+[![Email](https://img.shields.io/badge/info@sistemasmg.es-d07600?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:info@sistemasmg.es)
 
 </div>
